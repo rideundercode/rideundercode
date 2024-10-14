@@ -3,7 +3,7 @@
 👨‍💻 I'm a passionate Full Stack Developer with a focus on **Spring Boot** and **Angular**. I've successfully completed missions during my apprenticeship and as a freelance trainer, and I am eager to continue growing technically while contributing to exciting projects in a collaborative team.
 
 🔭 **Current Work**:
-- Working on **Spring Boot** and **Angular** (Check it out [here](https://github.com/rideundercode/projet_todo_liste)).
+- Working on **Spring Boot** and **Angular**.
 - Improving my skills in **microservices architecture** and **RESTful API development**.
 
 💼 **Skills & Technologies**:
